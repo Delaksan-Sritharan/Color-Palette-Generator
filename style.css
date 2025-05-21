@@ -76,7 +76,7 @@ box-shadow: 0 6px 10px regba(102,126,234,0.3);
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-    transition: trasnform 0.2s;
+    transition: transform 0.2s;
 }
 
 .color-box:hover{

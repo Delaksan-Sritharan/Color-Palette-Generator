@@ -39,9 +39,8 @@ To run this project locally, follow these simple steps:
 
 1.  **Clone the repository (or download the files):**
     ```bash
-    git clone [https://github.com/your-username/color-palette-generator.git](https://github.com/your-username/color-palette-generator.git)
+    git clone [[https://github.com/your-username/color-palette-generator.git](https://github.com/your-username/color-palette-generator.git)](https://github.com/Delaksan-Sritharan/Color-Palette-Generator.git)
     ```
-    (Replace `your-username` with the actual GitHub username if this is hosted on GitHub, otherwise, instruct them to download the zip.)
 
 2.  **Navigate to the project directory:**
     ```bash
